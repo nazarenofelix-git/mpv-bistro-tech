@@ -2,4 +2,4 @@ credentials:
   usernames:
     nazarenofelix:
       name: Nazareno
-      password: "$2a$12$Kjq9mNCDAVRBLXlKjsaWQuyofby3q.leLiSpHLhQjmRCrPufDvlJK"
+      password: $2a$12$Kjq9mNCDAVRBLXlKjsaWQuyofby3q.leLiSpHLhQjmRCrPufDvlJK
